@@ -36,3 +36,4 @@ urllib3==1.13.1
 virtualenv==16.7.8
 virtualenv-clone==0.5.3
 virtualenvwrapper==4.8.4
+uWSGI==2.0.15
